@@ -230,7 +230,8 @@ Feel free to open issues, submit pull requests, or provide feedback.
 
 ## Author
 
-### Veerendra Babu
+### Veerendra Babu B
+### Contact veerendra.embedded@gmail.com
 
 Embedded Software Engineer
 
